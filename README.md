@@ -1,3 +1,3 @@
 # first-repository
 This is my first repository.. <br>
-Author - Rashid
+Author - Rashid Qamar..
